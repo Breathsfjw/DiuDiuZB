@@ -54,7 +54,7 @@
 		2BA2029625B2EF7200399EAA /* DiuDiuZB */ = {
 			isa = PBXGroup;
 			children = (
-				2BA202C425B57DE200399EAA /* classes */,
+				2BA202D125B5806000399EAA /* classes */,
 				2BA2029725B2EF7200399EAA /* AppDelegate.swift */,
 				2BA2029925B2EF7200399EAA /* SceneDelegate.swift */,
 				2BA2029D25B2EF7200399EAA /* Main.storyboard */,
@@ -65,59 +65,59 @@
 			path = DiuDiuZB;
 			sourceTree = "<group>";
 		};
-		2BA202C425B57DE200399EAA /* classes */ = {
+		2BA202D125B5806000399EAA /* classes */ = {
 			isa = PBXGroup;
 			children = (
-				2BA202C525B57E0900399EAA /* main */,
-				2BA202C725B57E3F00399EAA /* home */,
-				2BA202C625B57E1300399EAA /* live */,
-				2BA202C825B57E4800399EAA /* follow */,
-				2BA202C925B57E5800399EAA /* profile */,
-				2BA202CA25B57E6300399EAA /* tools */,
+				2BA202D725B5806000399EAA /* main */,
+				2BA202D225B5806000399EAA /* home */,
+				2BA202D625B5806000399EAA /* live */,
+				2BA202D425B5806000399EAA /* follow */,
+				2BA202D525B5806000399EAA /* profile */,
+				2BA202D325B5806000399EAA /* tools */,
 			);
 			path = classes;
 			sourceTree = "<group>";
 		};
-		2BA202C525B57E0900399EAA /* main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = main;
-			sourceTree = "<group>";
-		};
-		2BA202C625B57E1300399EAA /* live */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = live;
-			sourceTree = "<group>";
-		};
-		2BA202C725B57E3F00399EAA /* home */ = {
+		2BA202D225B5806000399EAA /* home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = home;
 			sourceTree = "<group>";
 		};
-		2BA202C825B57E4800399EAA /* follow */ = {
+		2BA202D325B5806000399EAA /* tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = tools;
+			sourceTree = "<group>";
+		};
+		2BA202D425B5806000399EAA /* follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = follow;
 			sourceTree = "<group>";
 		};
-		2BA202C925B57E5800399EAA /* profile */ = {
+		2BA202D525B5806000399EAA /* profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = profile;
 			sourceTree = "<group>";
 		};
-		2BA202CA25B57E6300399EAA /* tools */ = {
+		2BA202D625B5806000399EAA /* live */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = tools;
+			path = live;
+			sourceTree = "<group>";
+		};
+		2BA202D725B5806000399EAA /* main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
